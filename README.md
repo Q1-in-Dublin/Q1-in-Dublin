@@ -20,24 +20,24 @@ Data Engineer based in Dublin, currently an **Investment Data Specialist at Utmo
 ### 🛠️ Tech Stack
 
 **Languages**
-
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL%20%2F%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+ 
 **Backend & ML**
-
+ 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
+ 
 **Data Engineering & Cloud**
-
+ 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -45,9 +45,9 @@ Data Engineer based in Dublin, currently an **Investment Data Specialist at Utmo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+ 
 **AI Orchestration & Event-Driven Systems**
-
+ 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,3 +58,11 @@ Data Engineer based in Dublin, currently an **Investment Data Specialist at Utmo
 ### 🚧 Currently Building
 
 **[event-driven-async-rag-ai-orchestration-backend](https://github.com/Q1-in-Dublin/event-driven-async-rag-ai-orchestration-backend)** — an async, event-driven backend that orchestrates Slack-triggered RAG/LLM workflows: FastAPI ingests requests, Redis Streams queues and retries them, LangGraph handles stateful branching and model fallback, and pgvector powers retrieval.
+
+
+### 📁 Other Projects
+ 
+- [airflow-financial-data-pipeline](https://github.com/Q1-in-Dublin/airflow-financial-data-pipeline)
+- [financial-data-platform-dbt](https://github.com/Q1-in-Dublin/financial-data-platform-dbt)
+- [Mollayo_TodoList](https://github.com/Q1-in-Dublin/Mollayo_TodoList)
+ 
